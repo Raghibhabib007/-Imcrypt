@@ -9,7 +9,7 @@ Imcrypt is a powerful command-line interface (CLI) tool designed to encrypt and 
 
 ## Preview
 
-![Imcrypt Preview]()
+![Imcrypt Preview](https://github.com/Raghibhabib007/-Imcrypt/assets/163768743/4b0aaf57-8d0c-4dd4-bea0-957d953ecdb1)
 
 ## Installation
 
